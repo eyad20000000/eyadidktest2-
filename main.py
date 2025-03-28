@@ -1,4 +1,8 @@
 print('eyadbarakawant')
 print('eyadidkwant')
-x=10
-print(x)
+
+def printthing(par):
+    print(par)
+
+
+printthing(10)
